@@ -1,0 +1,17 @@
+LAPORAN HASIL STUDI - SEMESTER 3
+-----------------------------------------------------------------
+Mata Kuliah                        SKS   Nilai Huruf  Status
+-----------------------------------------------------------------
+Pemrograman Berorientasi Objek       3   92.30     A  Lulus
+Sistem Operasi                       3   77.70     B  Lulus
+Jaringan Komputer                    3   69.30     C  Lulus
+Rekayasa Perangkat Lunak             3   44.50     D  Tidak lulus
+-----------------------------------------------------------------
+Total SKS semester      : 12
+Mata kuliah lulus       : 3 dari 4
+IP semester 3           : 2.50
+IPK s.d. semester 3     : 2.70
+Keterangan:
+  - Pemrograman Berorientasi Objek (3 SKS), dosen: Pak Agung, ruang: GIKL1B
+  - Sistem Operasi (3 SKS), dosen: Pak Yoga
+  - Jaringan Komputer (3 SKS), hari: Rabu

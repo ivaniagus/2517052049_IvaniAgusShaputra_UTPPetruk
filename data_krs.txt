@@ -1,0 +1,11 @@
+# semester;nama;sks;tugas;uts;uas;atribut(kunci=nilai)
+1;Pemrograman Terstruktur;3;90;85;90;dosen=Pak Rahman
+1;Statistika;3;75;70;72;ruang=GIKL1
+1;Pengenalan Organisasi Komputer;3;60;45;40;dosen=Pak Febi;hari=Senin
+2;Struktur Data;3;80;78;82;dosen=Bu Dhella
+2;Basis Data;3;85;80;90
+2;Penggunaan Generative AI;3;70;60;65;ruang=R.103
+3;Pemrograman Berorientasi Objek;3;95;90;92;dosen=Pak Agung;ruang=GIKL1B
+3;Sistem Operasi;3;80;75;78;dosen=Pak Yoga
+3;Jaringan Komputer;3;70;65;72;hari=Rabu
+3;Rekayasa Perangkat Lunak;3;50;45;40
