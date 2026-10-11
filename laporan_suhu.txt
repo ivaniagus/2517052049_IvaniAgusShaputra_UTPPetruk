@@ -1,0 +1,14 @@
+LAPORAN SUHU HARIAN
+==============================
+Senin   : 31 C  (Normal)
+Selasa  : 33 C  (Panas)
+Rabu    : 29 C  (Normal)
+Kamis   : 35 C  (Panas)
+Jumat   : 32 C  (Panas)
+Sabtu   : 30 C  (Normal)
+Minggu  : 28 C  (Normal)
+------------------------------
+Rata-rata suhu   : 31.14 C
+Suhu paling tinggi   : 35 C (Kamis)
+Suhu paling rendah    : 28 C (Minggu)
+Total hari Panas: 3 hari
